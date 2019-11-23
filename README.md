@@ -17,4 +17,4 @@ One versions are provided, Rev C is a fully tested board, put into limited produ
 
 ![Open Hardware](Images/oshw-logo-200-px.png)
 
-All DKblock software and hardware is released as open source hardware (OSHW) as defined by the OSHWA: https://www.oshwa.org/definition/ and under the JSON license fully defined in the Wiki.
+All DKblock software and hardware is released as open source hardware (OSHW) as defined by the [OSHWA](https://www.oshwa.org/definition/) and under the JSON license fully defined in the Wiki.
